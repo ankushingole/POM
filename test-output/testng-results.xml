@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50442" started-at="2020-06-26T14:05:06Z" finished-at="2020-06-26T14:05:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50442" started-at="2020-06-26T14:05:06Z" finished-at="2020-06-26T14:05:57Z">
+      <class name="com.OrangeHRM.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OrangeHRM.testcases.HomePageTest@6833ce2c]" name="setUp" is-config="true" duration-ms="9353" started-at="2020-06-26T19:35:37Z" finished-at="2020-06-26T19:35:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnAdminTab()[pri:3, instance:com.OrangeHRM.testcases.HomePageTest@6833ce2c]" name="clickOnAdminTab" duration-ms="9792" started-at="2020-06-26T19:35:46Z" finished-at="2020-06-26T19:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAdminTab -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.OrangeHRM.testcases.HomePageTest@6833ce2c]" name="closeBrowser" is-config="true" duration-ms="776" started-at="2020-06-26T19:35:56Z" finished-at="2020-06-26T19:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.OrangeHRM.testcases.HomePageTest -->
+      <class name="com.OrangeHRM.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@6ad5c04e]" name="setUp" is-config="true" duration-ms="11744" started-at="2020-06-26T19:35:06Z" finished-at="2020-06-26T19:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoTest()[pri:1, instance:com.OrangeHRM.testcases.LoginPageTest@6ad5c04e]" name="logoTest" duration-ms="96" started-at="2020-06-26T19:35:18Z" finished-at="2020-06-26T19:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@6ad5c04e]" name="closeBrowser" is-config="true" duration-ms="1504" started-at="2020-06-26T19:35:18Z" finished-at="2020-06-26T19:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@6ad5c04e]" name="setUp" is-config="true" duration-ms="9531" started-at="2020-06-26T19:35:20Z" finished-at="2020-06-26T19:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.OrangeHRM.testcases.LoginPageTest@6ad5c04e]" name="loginTest" duration-ms="6833" started-at="2020-06-26T19:35:29Z" finished-at="2020-06-26T19:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@6ad5c04e]" name="closeBrowser" is-config="true" duration-ms="778" started-at="2020-06-26T19:35:36Z" finished-at="2020-06-26T19:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.OrangeHRM.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
